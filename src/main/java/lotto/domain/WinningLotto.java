@@ -1,6 +1,6 @@
-package lotto;
+package lotto.domain;
 
-import lotto.enums.Rank;
+import lotto.domain.enums.Rank;
 
 public class WinningLotto {
     private static final int LOTTO_NUMBER_MIN = 1;

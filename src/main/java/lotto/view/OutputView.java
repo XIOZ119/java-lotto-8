@@ -1,6 +1,8 @@
-package lotto;
+package lotto.view;
 
-import lotto.enums.Rank;
+import lotto.domain.LottoResult;
+import lotto.domain.Lotto;
+import lotto.domain.enums.Rank;
 
 import java.util.List;
 

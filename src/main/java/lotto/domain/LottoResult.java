@@ -1,6 +1,6 @@
-package lotto;
+package lotto.domain;
 
-import lotto.enums.Rank;
+import lotto.domain.enums.Rank;
 
 import java.util.HashMap;
 import java.util.List;
